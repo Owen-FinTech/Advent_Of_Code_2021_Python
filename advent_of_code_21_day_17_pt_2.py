@@ -1,4 +1,4 @@
-input_string = '''target area: x=56..76, y=-162..-134''' # Insert your puzzle input between the triple quotes
+input_string = '''''' # Insert your puzzle input between the triple quotes
 
 x_lower_str = ""
 in_num = False

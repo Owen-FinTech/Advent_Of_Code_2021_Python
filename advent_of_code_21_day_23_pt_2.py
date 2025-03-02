@@ -33,13 +33,7 @@ class Option:
         return self.energy < other.energy
 
 # Updated Initial Configuration with inserted lines
-input_string = '''#############
-#...........#
-###D#A#D#C###
-  #D#C#B#A#
-  #D#B#A#C#
-  #C#A#B#B#
-  #########'''  # Insert your puzzle input between the triple quotes
+input_string = ''''''  # Insert your puzzle input between the triple quotes
 
 # Updated Final Configuration with inserted lines
 final_string = '''#############

@@ -32,11 +32,7 @@ class Option:
     def __lt__(self, other):
         return self.energy < other.energy
 
-input_string = '''#############
-#...........#
-###D#A#D#C###
-  #C#A#B#B#
-  #########'''  # Insert your puzzle input between the triple quotes
+input_string = ''''''  # Insert your puzzle input between the triple quotes
 
 final_string = '''#############
 #...........#

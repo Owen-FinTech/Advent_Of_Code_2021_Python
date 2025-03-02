@@ -1,5 +1,4 @@
-input_string = '''Player 1 starting position: 8
-Player 2 starting position: 2''' # Insert your puzzle input between the triple quotes
+input_string = '''''' # Insert your puzzle input between the triple quotes
 
 p1Pos: int
 p2Pos: int

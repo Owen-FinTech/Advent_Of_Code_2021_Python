@@ -2,8 +2,7 @@ from __future__ import annotations
 import functools
 import itertools
 
-input_string = '''Player 1 starting position: 8
-Player 2 starting position: 2''' # Insert your puzzle input between the triple quotes
+input_string = '''''' # Insert your puzzle input between the triple quotes
 
 p1: int
 p2: int
